@@ -17,7 +17,7 @@ while True:
 min_cnt = float('inf')
 
 for num in range(L, R+1):
-    #cnt 안에 리스트 내 특정 원소의 8의 갯수를 센것을 넣겠다.
+    #cnt 안에 내 특정 원소의 8의 갯수를 센것을 넣겠다.
     cnt = str(num).count('8')
     if cnt < min_cnt:
         min_cnt = cnt

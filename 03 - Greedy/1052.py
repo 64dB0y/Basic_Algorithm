@@ -18,3 +18,8 @@ def calculate_minimum_bottles(N, K):
     return result
 
 print(calculate_minimum_bottles(N, K))
+
+'''
+1   +   1   =   2   -> 1 0 (2)
+2   +   2   =   4   -> 1 0 0 (2)
+'''
