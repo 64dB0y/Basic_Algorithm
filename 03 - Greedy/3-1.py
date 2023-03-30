@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 n = 1260
 count = 0
 
